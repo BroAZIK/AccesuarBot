@@ -1,4 +1,4 @@
-import requests
+
 from telegram.ext import (
     Updater,
     CommandHandler,
