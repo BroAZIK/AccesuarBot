@@ -1,0 +1,62 @@
+{
+    "Users": {
+        "6026508394": {
+            "user_id": 6026508394,
+            "full_name": "Rustam Qushqulov"
+        }
+    },
+    "Stage": {
+        "5027127747": {
+            "stage": "Telefonlar\ud83d\udcf1"
+        },
+        "5143376517": {
+            "stage": "Soatlar\u231a\ufe0f",
+            "pricing": "true"
+        },
+        "6026508394": {
+            "stage": "Telefon jihozlari\u2699\ufe0f",
+            "pricing": "true"
+        }
+    },
+    "Index": {
+        "5027127747": {
+            "Telefonlar\ud83d\udcf1": 19,
+            "Telefon jihozlari\u2699\ufe0f": 5,
+            "Quloqliklar\ud83c\udfa7": 1,
+            "Soatlar\u231a\ufe0f": 1,
+            "Avtomobil jihozlari\u2699\ufe0f": 1,
+            "Pultlar\ud83d\udd79": 1,
+            "Sichqonchalar\ud83d\uddb1": 1,
+            "Fonarlar\ud83d\udd26": 1,
+            "Bataraeykalar\ud83d\udd0b": 1,
+            "Kamyob aksessuarlar\ud83d\udc8e": 1,
+            "hamma": 1
+        },
+        "5143376517": {
+            "Telefonlar\ud83d\udcf1": 1,
+            "Telefon jihozlari\u2699\ufe0f": 1,
+            "Quloqliklar\ud83c\udfa7": 1,
+            "Soatlar\u231a\ufe0f": 1,
+            "Avtomobil jihozlari\u2699\ufe0f": 1,
+            "Pultlar\ud83d\udd79": 1,
+            "Sichqonchalar\ud83d\uddb1": 1,
+            "Fonarlar\ud83d\udd26": 1,
+            "Bataraeykalar\ud83d\udd0b": 1,
+            "Kamyob aksessuarlar\ud83d\udc8e": 1,
+            "hamma": 1
+        },
+        "6026508394": {
+            "Telefonlar\ud83d\udcf1": 1,
+            "Telefon jihozlari\u2699\ufe0f": 1,
+            "Quloqliklar\ud83c\udfa7": 1,
+            "Soatlar\u231a\ufe0f": 1,
+            "Avtomobil jihozlari\u2699\ufe0f": 1,
+            "Pultlar\ud83d\udd79": 1,
+            "Sichqonchalar\ud83d\uddb1": 1,
+            "Fonarlar\ud83d\udd26": 1,
+            "Bataraeykalar\ud83d\udd0b": 1,
+            "Kamyob aksessuarlar\ud83d\udc8e": 1,
+            "hamma": 1
+        }
+    }
+}
